@@ -7,7 +7,7 @@ function isLeapYear($year){
 
             }
             else{
-            echo "The Year " . $year . " Is A leap year!";
+            echo "The Year " . $year . " Is Not a leap year!";
             }
 
         }
@@ -20,7 +20,7 @@ function isLeapYear($year){
     echo "The Year " . $year . " Is Not a leap year!";
     }
 }
-isLeapYear(2021);
+isLeapYear(2016);
 
 /*
 The Leap Year Exercise By Asem Al-Zaghal

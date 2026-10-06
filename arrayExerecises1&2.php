@@ -14,7 +14,6 @@ echo "<br>
         <li>".$colors[2]."</li>
         <li>".$colors[0]."</li>
     </ul>"
-
 /*
 The Array 1st and 2nd Exercises By Asem Al-Zaghal
 */
